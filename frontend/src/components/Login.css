@@ -1,0 +1,46 @@
+#login::before{
+    content:"";
+    position:absolute;
+    background: url('../images/background.jpg') no-repeat center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    
+}
+
+#register::before{
+    content:"";
+    position:absolute;
+    background: url('../images/background.jpg') no-repeat center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    
+}
+
+#forgetpage::before{
+    content:"";
+    position:absolute;
+    background: url('../images/ho.jpg') no-repeat center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    
+}
+#checkoutpage::before{
+    content:"";
+    position:absolute;
+    background: url('../images/ho.jpg') no-repeat center/cover;
+    height: 120%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    
+}
